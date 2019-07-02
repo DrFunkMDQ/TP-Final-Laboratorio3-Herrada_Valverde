@@ -1,0 +1,18 @@
+CURSOS
+	Course01 - Inst: INST TRUCTOR;
+	Course02 - Inst: INST TRUCTOR; 
+	Course03 - Inst: INST TRUCTOR;
+
+
+
+ADMIN 99-123456
+
+INSTRUCTORS
+	INST RUCTOR - 88//12345 - ID: 2
+	TEST INST - 89//12345 - ID: 6
+
+
+STUDENTS
+	EMI STUDENT - 01//12345
+	Tincho Student - 02//12345
+	Test Student - 03//12345
